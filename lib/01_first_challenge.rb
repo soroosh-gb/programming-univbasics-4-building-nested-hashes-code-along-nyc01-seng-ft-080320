@@ -25,5 +25,28 @@ def first_challenge
           :attitude => "hot_heaed"
          }
         ]
-     }
+     },
+      :capulet => {
+        :patriarch => {
+          :name => "lord Capulet",
+          :age => "50",
+        },
+        :matriarch => {
+          :name => "Lady Capulet",
+          :age => "51",
+         },
+         :hero => {
+           :name => "Juliet",
+           :age => "15"
+         },
+         :hero_friends => [
+           {
+             :name => "Steven",
+             :age => "30",
+             :a
+           
+         }]
+        }
+        }
+      }
 end
