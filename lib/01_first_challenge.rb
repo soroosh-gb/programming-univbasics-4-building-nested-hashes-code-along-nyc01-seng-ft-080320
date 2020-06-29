@@ -35,11 +35,12 @@ def first_challenge
           :name => "Lady Capulet",
           :age => "51",
          },
-         :hero => {
+         :heroine => {
            :name => "Juliet",
-           :age => "15"
+           :age => "15",
+           :status => "alive"
          },
-         :hero_friends => [
+         :heroine_friends => [
            {
              :name => "Steven",
              :age => "30",
@@ -50,9 +51,8 @@ def first_challenge
              :age => "44",
              :attitude => "worried"
            }
-         }
          ]
-        }
-        }
+      }
+    }
       }
 end
