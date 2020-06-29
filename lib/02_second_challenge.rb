@@ -15,9 +15,17 @@ def second_challenge
       },
       :hero_friends => [
         {
-          :name => 
-        }]
-      }, 
+          :name => "Benvolio",
+          :age => "17",
+          :attitude => "worried"
+        },
+        {
+          :name => "Mercutio",
+          :age => "18",
+          :attitude => "hot_headed"
+        }
+      ]
+    }, 
     :capulet => {
       :patriarch => {},
       :matriarch => {},
